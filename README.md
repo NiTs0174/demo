@@ -6,6 +6,14 @@
 
 ---
 
+## 🚀 Danh sách thành viên:
+- 1. Hà Thanh Tài
+- 2. Nguyễn Minh Thắng
+- 3. Huỳnh Đức Trung
+- 4. Nguyễn Phúc Vĩnh
+
+---
+
 ## 🛠️ Công nghệ sử dụng
 - **Node.js**: Framework phía server.
 - **Express**: Xử lý API nhanh chóng.
@@ -26,4 +34,4 @@
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/NiTs0174/demo.git
