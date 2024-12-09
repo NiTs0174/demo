@@ -1,0 +1,10 @@
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\bin\Debug\lab2.1.exe.config
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\bin\Debug\lab2.1.exe
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\bin\Debug\lab2.1.pdb
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2.1.csproj.AssemblyReference.cache
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2._1.Form1.resources
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2._1.Properties.Resources.resources
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2.1.csproj.GenerateResource.cache
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2.1.csproj.CoreCompileInputs.cache
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2.1.exe
+C:\Users\taiha\OneDrive\Máy tính\Demo2\demo\lab2.1\obj\Debug\lab2.1.pdb

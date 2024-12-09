@@ -67,6 +67,7 @@
             this.btnChia.TabIndex = 17;
             this.btnChia.Text = "/";
             this.btnChia.UseVisualStyleBackColor = true;
+            this.btnChia.Click += new System.EventHandler(this.btnChia_Click_1);
             // 
             // btnNhan
             // 
@@ -77,6 +78,7 @@
             this.btnNhan.TabIndex = 16;
             this.btnNhan.Text = "*";
             this.btnNhan.UseVisualStyleBackColor = true;
+            this.btnNhan.Click += new System.EventHandler(this.btnNhan_Click);
             // 
             // btnTru
             // 
@@ -87,6 +89,7 @@
             this.btnTru.TabIndex = 15;
             this.btnTru.Text = "-";
             this.btnTru.UseVisualStyleBackColor = true;
+            this.btnTru.Click += new System.EventHandler(this.btnTru_Click);
             // 
             // txtNum2
             // 
@@ -115,7 +118,6 @@
             this.btnCong.TabIndex = 12;
             this.btnCong.Text = "+";
             this.btnCong.UseVisualStyleBackColor = true;
-            this.btnCong.Click += new System.EventHandler(this.btnCong_Click);
             // 
             // txtNum1
             // 
